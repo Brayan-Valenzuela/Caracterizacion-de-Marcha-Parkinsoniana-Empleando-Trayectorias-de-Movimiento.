@@ -1,1 +1,1 @@
-# Reconocimiento-y-caracterizaci-n-de-im-genes-m-dicas.
+# Reconocimiento-y-caracterizacion-de-imagenes-medicas.
