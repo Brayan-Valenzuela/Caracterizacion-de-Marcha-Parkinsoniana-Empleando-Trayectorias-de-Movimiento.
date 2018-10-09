@@ -5,4 +5,8 @@
 </div>
 
 
-# Integrantes
+# Integrantes:
+
+Alejandra Moreno Tarazona 2151841
+Lina Marcela Ruiz García 2152488
+Brayan Camilo Valenzuela Rinc\'on 2151843
