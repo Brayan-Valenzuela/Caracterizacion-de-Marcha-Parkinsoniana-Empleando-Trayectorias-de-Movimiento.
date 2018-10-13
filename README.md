@@ -17,8 +17,11 @@
 
 # Datos que se usarán en el proyecto
 
-- Videos de personas con parkinson: 7
-- Videos de personas normales: 10
-- Dimensión de los videos: 1920 x 1080
-- Frecuencia en la que se grabaron: 25 fps
-- Dónde se grabaron: Fundacion Fampas Bucaramanga
+- Videos de marcha en personas normales y con la enfermedad de Parkinson.
+- Videos de personas con parkinson: 7.
+- Videos de personas normales: 10.
+- Dimensión de los videos: 1920 x 1080.
+- Frecuencia en la que se grabaron: 25 fps.
+- Dónde se grabaron: Fundacion Fampas Bucaramanga.
+
+En fases posteriores se desea usar un dataset de manos existente en el grupo de investigación BivLab.
