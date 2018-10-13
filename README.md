@@ -23,6 +23,6 @@
 - Dimensión de los videos: 1920 x 1080.
 - Frecuencia en la que se grabaron: 25 fps.
 - Dónde se grabaron: En la Fundacion Adulto Mayor y Parkinson Santander (FAMPAS) ubicada en la ciudad de Bucaramanga, en la Calle 54# 23-41 Sotomayor. Esta fundación es sin animo de lucro, que se encarga de trabajar en la rehabilitación integral de auqellas personas que padecen la enfermedad del parkinson.
- -Dirección de contacto con la fundacion: fampasbga@gmail.com
+-Dirección de contacto con la fundacion: fampasbga@gmail.com
 
 En fases posteriores se desea usar un dataset de manos existente en el grupo de investigación BIVL2AB.
