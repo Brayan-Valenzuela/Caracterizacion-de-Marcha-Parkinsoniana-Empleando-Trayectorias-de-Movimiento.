@@ -26,4 +26,4 @@
  -Dirección de contaco con la fundacion: fampasbga@gmail.com
 
 
-En fases posteriores se desea usar un dataset de manos existente en el grupo de investigación BivLab.
+En fases posteriores se desea usar un dataset de manos existente en el grupo de investigación BIVL2AB.
