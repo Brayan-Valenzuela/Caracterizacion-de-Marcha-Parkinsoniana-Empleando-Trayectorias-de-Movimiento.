@@ -17,8 +17,8 @@
 
 # Datos que se usarán en el proyecto
 
-## Videos de personas con parkinson:
-## Videos de personas normales: 
-## Dimensión de los videos: 
-## Frecuencia en la que se grabaron:
-## Dónde se grabaron:
+- Videos de personas con parkinson: 7
+- Videos de personas normales: 10
+- Dimensión de los videos: 1920 x 1080
+- Frecuencia en la que se grabaron: 25 fps
+- Dónde se grabaron:
