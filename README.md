@@ -21,4 +21,4 @@
 - Videos de personas normales: 10
 - Dimensión de los videos: 1920 x 1080
 - Frecuencia en la que se grabaron: 25 fps
-- Dónde se grabaron:
+- Dónde se grabaron: Fundacion Fampas Bucaramanga
