@@ -1,6 +1,6 @@
 <div class=text-justify>
   
-# Reconocimiento-y-caracterización-de-imagenes-médicas
+# Reconocimiento y caracterización de imagenes médicas
 
 </div>
 
