@@ -26,4 +26,7 @@
 - El dataset de marcha fue provisto gracias al desarollo de trabajos previos llevados acabo por estudiantes que forman parte del grupo de investigación BIVL2AB.
 - Estado de los pacientes: No se conoce en estadio de la enfermedad en el que se encuentran los pacientes.
 - Dirección de contacto con la fundacion: fampasbga@gmail.com
-- En fases posteriores se desea usar un dataset de manos existente en el grupo de investigación BIVL2AB, perteneciente a la Universidad Industrial de Santander (UIS). 
+- En fases posteriores se desea usar un dataset de manos existente en el grupo de investigación BIVL2AB, perteneciente a la Universidad Industrial de Santander (UIS).
+
+# Video final
+https://drive.google.com/file/d/1VW3zzVLGkJg4H1Sfb8gf8y57lkGxjZ1-/view?usp=sharing
